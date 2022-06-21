@@ -1,0 +1,57 @@
+.container
+{
+	  position:absolute;
+    top: 50%;
+    left: 50%;
+    width:20em;
+    height:18em;
+    margin-top: -9em;
+    margin-left: -13em; 
+    border: 5px solid #87AAAA;
+    background-color: #CEE5D0;
+}
+body
+{
+	background-image: url('gyms.jpg');
+	background-size: 1600px 800px;
+	background-repeat: no-repeat; 
+}
+
+.a
+{
+  text-align: right;
+}
+.rp
+{
+  top: 15%;
+  left: 30%;
+  width:50em;
+  height:18em;
+  margin-top: 15em;
+  margin-left: 25em;
+}
+.home
+{
+  position:absolute;
+  top: 50%;
+  left: 50%;
+  width:20em;
+  height:18em;
+  margin-top: -9em;
+  margin-left: -13em; 
+  border: 5px solid #87AAAA;
+  background-color: #CEE5D0;
+}
+.l
+{
+  top: 55%;
+  left: 51%;
+  width:30em;
+  height:14em;
+  margin-top: -32em;
+  margin-left: 90em;
+}
+.result_body
+{
+  background-color: #CEE5D0
+}
